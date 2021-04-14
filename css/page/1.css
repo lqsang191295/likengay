@@ -8,14 +8,23 @@
 }
 
 .ln_body .right .t2 {
-    font-size: 40px;
-    font-weight: 600;
+    
     padding-bottom: 10px;
     margin: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ln_body .right .t2 span {
+    font-size: 40px;
+    font-weight: 600;
 }
 
 .ln_body .right .text.t2 { 
     color: #f04c24;
+    font-size: 40px;
+    font-weight: 600;
 }
 
 .ln_body .right .number.t2 span { 
@@ -24,4 +33,19 @@
 
 .ln_body .right .t2.border {
     border-bottom: 1px solid #ccc;
+}
+
+.ln_body .right .t2 p {
+    background: #f04c24;
+    border-radius: 50%;
+    padding: 10px;
+    width: 7px;
+    height: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 0;
 }
