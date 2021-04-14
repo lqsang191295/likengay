@@ -1,0 +1,15 @@
+.ln_menu_item {
+    display: flex;
+    align-items: center;
+    padding: 10px 0 10px 50px;
+}
+
+.ln_menu_item .icon img {
+    width: 30px;
+    height: 30px;
+    padding-right: 20px;
+}
+
+.ln_menu_item .text {
+    font-weight: 600;
+}

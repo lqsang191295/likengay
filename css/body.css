@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background: #eef0f4;
+    padding-bottom: 50px;
+}
+
+.ln_body {
+    display: flex;
+}
+
+.ln_body .ln_menu.left {
+    margin-top: 15px;
+    width: 300px;
+}
+
+.ln_body .center {
+    width: 50%;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.ln_body .right {
+    width: calc(50% - 300px);
+    margin-top: 25px;
+    padding: 0 10px 0 50px;
+}

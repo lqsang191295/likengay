@@ -1,0 +1,8 @@
+.ln_input_default {
+    width: 100%;
+    border-radius: 30px;
+    border: 0;
+    padding: 0 15px;
+    background: #eeeeee;
+    outline: none;
+}
