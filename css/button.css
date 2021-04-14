@@ -39,3 +39,27 @@
     width: 12.5px;
     height: 12.5px;
 }
+
+.ln_button_default_1 {
+    width: 100%;
+    border-radius: 7px;
+    background: #f04c24;
+    border: 0;
+    height: 35px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+}
+
+.ln_button_default_1 .text{
+    margin-right: 5px;
+}
+
+.ln_button_default_1 .icon{
+    width: 10px;
+    height: 10px;
+}

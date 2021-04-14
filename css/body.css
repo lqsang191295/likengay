@@ -8,18 +8,18 @@ body {
     display: flex;
 }
 
-.ln_body .ln_menu.left {
+.ln_body .ln_menu.layout_left {
     margin-top: 15px;
     width: 300px;
 }
 
-.ln_body .center {
+.ln_body .layout_center {
     width: 50%;
     margin-top: 25px;
     margin-left: 30px;
 }
 
-.ln_body .right {
+.ln_body .layout_right {
     width: calc(50% - 300px);
     margin-top: 25px;
     padding: 0 10px 0 50px;

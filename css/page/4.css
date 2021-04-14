@@ -1,0 +1,38 @@
+.ln_body .layout_center {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px 25px;
+}
+
+.ln_body .layout_center .title {
+    text-align: center;
+    font-size: 23px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.ln_body .layout_center .form .row {
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 0 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.ln_body .layout_center .form .row .row_info {
+    flex: 3;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ln_body .layout_center .form .row span.name {
+    font-weight: 600;
+    flex: 1;
+}
+
+.ln_body .layout_center .form .row span.info {
+    color: #929292;
+}
+
+.ln_body .layout_center .form .row span.update {
+    color: #f04c24;
+}

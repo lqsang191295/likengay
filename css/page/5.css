@@ -1,0 +1,21 @@
+.ln_body .layout_center .item {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px 30px 10px 30px;
+    margin-bottom: 20px;
+}
+
+.ln_body .layout_center .item .title {
+    text-align: center;
+    font-size: 23px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.ln_body .layout_center .item button {
+    margin-bottom: 20px;
+}
+
+.ln_body .layout_center .item .des {
+    margin-bottom: 20px;
+}

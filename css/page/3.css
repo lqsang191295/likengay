@@ -1,0 +1,114 @@
+.ln_body .banks {
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.ln_body .layout_center .bank {
+    background: #fff;
+    border-radius: 10px;
+    flex: 1;
+    padding: 15px 10px;
+}
+
+.ln_body .layout_center .bank.vcb{
+    margin-right: 20px;
+}
+
+.ln_body .layout_center .bank .title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.ln_body .layout_center .bank .logo {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.ln_body .layout_center .bank .logo img {
+    border-radius: 10px;
+}
+
+.ln_body .layout_center .bank .qr_code {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.ln_body .layout_center .bank .qr_code img {
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+}
+
+.ln_body .layout_center .bank .form input {
+    height: 30px;
+    width: calc(100% - 30px);
+}
+
+.ln_body .layout_center .bank .form textarea {
+    width: calc(100% - 30px);
+}
+
+.ln_body .layout_center .notification {
+    background: #ffdf8d;
+    border-radius: 10px;
+    padding: 15px 10px;
+    margin-top: 20px;
+}
+
+.ln_body .layout_center .notification span {
+    font-size: 15px;
+    color: red;
+    font-weight: 600;
+}
+
+.ln_body .layout_center .notification ul li {
+    font-size: 13px;
+    color: red;
+}
+
+.ln_body .layout_center .notification ul {
+    margin-bottom: 0;
+    margin-top: 7px;
+}
+
+.ln_body .layout_center .notification ul li:first-child {
+    margin-bottom: 10px;
+}
+
+.ln_body .layout_right .title {
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.ln_body .layout_right .items .item{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 3px;
+}
+
+.ln_body .layout_right .items .item .bank_name{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.ln_body .layout_right .items .item .text{
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.ln_body .layout_right .items .item .timer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ln_body .layout_right .items .item .timer .cost{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
