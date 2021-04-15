@@ -29,11 +29,15 @@
 }
 
 .ln_header_center .ln_search img{
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     position: absolute;
     left: 15px;
     border-radius: 5px;
+}
+
+.ln_header_icon {
+    cursor: pointer;
 }
 
 .ln_header_right {
@@ -47,6 +51,10 @@
     margin: 0 5px;
 }
 
+.ln_header_right .ln_name {
+    font-weight: 600;
+}
+
 .ln_header_right .ln_avartar {
     display: flex;
 }
@@ -58,6 +66,5 @@
 }
 
 .ln_header_icon {
-    padding-bottom: 5px;
 }
 

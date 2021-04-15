@@ -1,0 +1,28 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0)">
+<path d="M15.9992 31.9985C24.8354 31.9985 31.9985 24.8354 31.9985 15.9992C31.9985 7.1631 24.8354 0 15.9992 0C7.1631 0 0 7.1631 0 15.9992C0 24.8354 7.1631 31.9985 15.9992 31.9985Z" fill="url(#paint0_linear)"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="-1" y="-1" width="34" height="34">
+<rect x="-0.328003" y="-0.342712" width="32.6438" height="32.6808" fill="url(#pattern0)"/>
+</mask>
+<g mask="url(#mask0)">
+<g opacity="0.2">
+<path opacity="0.2" d="M31.7924 18.5634C33.208 9.84129 27.2848 1.62307 18.5627 0.207523C9.84052 -1.20802 1.6223 4.71514 0.206753 13.4373C-1.20879 22.1594 4.71437 30.3776 13.4365 31.7932C22.1587 33.2087 30.3769 27.2856 31.7924 18.5634Z" fill="#2363BD"/>
+</g>
+</g>
+<path d="M25.1575 15.2474C24.9768 10.7053 20.7312 7.18522 15.6734 7.38592C10.6157 7.58662 6.6618 11.4309 6.84244 15.973C6.92889 18.1452 7.94631 20.0828 9.53805 21.4924V24.6218L12.9562 23.3975C14.0076 23.7233 15.1454 23.8807 16.3265 23.8344C21.3827 23.6337 25.3366 19.7895 25.1575 15.2474Z" fill="white"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="15.9998" y1="3.07575" x2="15.9998" y2="31.5465" gradientUnits="userSpaceOnUse">
+<stop stop-color="#32A4FC"/>
+<stop offset="0.5" stop-color="#237DF5"/>
+<stop offset="1" stop-color="#1558ED"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+<image id="image0" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"/>
+</defs>
+</svg>

@@ -41,11 +41,16 @@
     flex: 1;
 }
 
+.ln_create_post .action .media, .feeling span {
+    font-weight: 600;
+    color: #929292;
+}
+
 .ln_create_post .action .media img, .feeling img {
     width: 30px;
     height: 30px;
     border-radius: 5px;
-    margin-right: 5px;
+    margin-right: 10px;
 }
 
 .ln_post {

@@ -28,6 +28,8 @@
 
 .ln_body .layout_center .bank .logo img {
     border-radius: 10px;
+    width: 50px;
+    height: 50px;
 }
 
 .ln_body .layout_center .bank .qr_code {
@@ -44,6 +46,11 @@
 .ln_body .layout_center .bank .form input {
     height: 30px;
     width: calc(100% - 30px);
+}
+
+.ln_body .layout_center .bank .form .text {
+    font-weight: 600;
+    color: #525252;
 }
 
 .ln_body .layout_center .bank .form textarea {
